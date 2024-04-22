@@ -1,4 +1,5 @@
-#INDEX.HTML EXPLAINATION
+#INDEX.HTML EXPLANATION
+
 * **HTML Structure:**
     * The code defines the basic structure of the webpage using HTML tags.
     * It includes a `<head>` section with meta information and a `<title>` for the game ("Tic Tac Toe").
@@ -14,8 +15,7 @@
     * The code references a stylesheet (`style.css`) likely containing styles for the game's visual appearance (colors, fonts, etc.).
     * It also references a script (`script.js`) which is probably where the game logic (handling clicks, tracking game state, etc.) is implemented using JavaScript.
 
-#SCRIPT.JS EXPLAINATION
-This code implements the logic for a Tic Tac Toe game webpage, likely corresponding to the previously explained HTML structure. Here's a breakdown:
+#SCRIPT.JS EXPLANATION
 
 **Global Variables:**
 
@@ -48,6 +48,7 @@ This code implements the logic for a Tic Tac Toe game webpage, likely correspond
         * Updating the turn information displayed on the page.
 
 #STYLE.CSS EXPLAINATION
+
 * **General Styles:**
   * It resets margins and paddings for all elements.
   * It imports the Roboto font family from Google Fonts.
